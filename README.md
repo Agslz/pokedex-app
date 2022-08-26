@@ -9,7 +9,7 @@
 
 ## Getting Started
 
-1. Download the repository files from the download section or clone this project: https://github.com/Agslz/pokemon-app
+1. Download the repository files from the download section or clone this project: https://github.com/Agslz/pokedex-app
 2. Import it in VScode or any other text editor.
 3. Have fun 🚀.
 
