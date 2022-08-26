@@ -107,3 +107,9 @@ h1 {
   margin-bottom: 50px;
   justify-content: center;
 }
+
+.nav-item{
+  font-size: 20px;
+  color: black;
+}
+
