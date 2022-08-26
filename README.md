@@ -4,7 +4,7 @@
 
 ## A simple pokedex 
 
-![Pokedex Screenshot](screenshots/screenshot1.png) 
+![Pokedex Screenshot](screenshots/screen1.png) 
 
 
 ## Getting Started
