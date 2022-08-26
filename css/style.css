@@ -1,11 +1,8 @@
 body {
   background: rgb(66, 100, 163);
-  background: linear-gradient(
-    90deg,
-    rgb(121, 91, 192) 0%,
-    rgb(177, 133, 199),
-    rgb(158, 88, 179) 82%
-  );
+  background: url("../images/backgroundimage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-family: "Oswald", sans-serif;
@@ -121,3 +118,19 @@ h1 {
   background-color: #d9d3e0;
   color: #5a4181;
 }
+
+.card-container{
+  background-color: #d9d3e0;
+  border-radius: 15px;
+}
+
+.pokemon-block{
+  background-color: #d9d3e0;
+}
+
+
+.pokemon-block-back{
+  background-color: #d9d3e0;
+}
+
+
