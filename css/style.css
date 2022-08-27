@@ -1,5 +1,4 @@
 body {
-  background: rgb(66, 100, 163);
   background: url("../images/backgroundimage.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -8,9 +7,6 @@ body {
   font-family: "Oswald", sans-serif;
 }
 
-h1 {
-  color: white;
-}
 .pokemon-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -26,8 +22,8 @@ h1 {
 .pokemon-block-back {
   border-radius: 10px;
   padding: 10px;
-  background-color: white;
-  box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+  background-color: #d9d3e0;
+  box-shadow: 0 3px 15px rgba(65, 61, 61, 0.5);
 }
 
 .img-container {
@@ -118,19 +114,3 @@ h1 {
   background-color: #d9d3e0;
   color: #5a4181;
 }
-
-.card-container{
-  background-color: #d9d3e0;
-  border-radius: 15px;
-}
-
-.pokemon-block{
-  background-color: #d9d3e0;
-}
-
-
-.pokemon-block-back{
-  background-color: #d9d3e0;
-}
-
-
